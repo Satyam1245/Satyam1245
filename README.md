@@ -92,10 +92,14 @@
   <img width="60%" src="https://streak-stats.demolab.com?user=Satyam1245&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
-## 📈 Contribution Activity
+## 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam1245&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam1245&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ## 🎯 Current Goal
