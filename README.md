@@ -96,8 +96,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam1245&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
-    alt="GitHub Contribution Graph"
+    src="https://ghchart.rshah.org/409ba5/Satyam1245"
+    alt="Satyam's GitHub Contribution Graph"
     width="100%"
   />
 </p>
