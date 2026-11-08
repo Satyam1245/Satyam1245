@@ -82,16 +82,6 @@
 - Tata GenAI Simulation
 
 
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="./profile/stats.svg" alt="Satyam's GitHub Statistics"/>
-  <img width="49%" src="./profile/top-langs.svg" alt="Most Used Languages"/>
-</p>
-
-
-*/
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -102,7 +92,7 @@
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=Satyam1245&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
-/*
+
 
 ## 📈 GitHub Contribution Activity
 
