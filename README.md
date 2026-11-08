@@ -81,15 +81,10 @@
 - AWS AI/ML certifications
 - Tata GenAI Simulation
 
-## 📊 GitHub Statistics
+## 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Satyam1245&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Satyam's GitHub statistics"/>
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Satyam1245&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most used programming languages"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=Satyam1245&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam1245&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Satyam's GitHub Contribution Activity" />
 </p>
 
 
