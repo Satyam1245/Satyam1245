@@ -92,15 +92,27 @@
   <img width="60%" src="https://streak-stats.demolab.com?user=Satyam1245&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
+
 ## 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/2ea44f/Satyam1245"
-    alt="Satyam's GitHub Contribution Graph"
-    width="100%"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/contributions.dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/contributions.light.svg"
+    />
+    <img
+      src="./assets/contributions.dark.svg"
+      alt="Satyam's GitHub Contribution Calendar"
+      width="100%"
+    />
+  </picture>
 </p>
+
 
 ## 🎯 Current Goal
 
