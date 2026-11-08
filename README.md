@@ -96,7 +96,7 @@
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/409ba5/Satyam1245"
+    src="https://ghchart.rshah.org/2ea44f/Satyam1245"
     alt="Satyam's GitHub Contribution Graph"
     width="100%"
   />
