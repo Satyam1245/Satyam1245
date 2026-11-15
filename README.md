@@ -8,17 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&size=24&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+AI+Developer;Computer+Vision+Enthusiast;Building+Deep+Learning+and+Reinforcement+Learning+Projects;Turning+Ideas+Into+Practical+AI+Systems" alt="Typing introduction"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Satyam1245">
-    <img src="https://img.shields.io/badge/GitHub-Satyam1245-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
-  </a>
-  <a href="https://www.linkedin.com/in/satyam-chaudhary-1259742b5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>
-  </a>
-  <a href="mailto:satyamchaudhary236@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
 
 ---
 
@@ -58,54 +47,126 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
+
 ## 🚀 Featured Projects
 
-### 🧠 [JAX Reinforcement Learning Platform](https://github.com/Satyam1245/jax-rl-platform)
+### 🧠 JAX Reinforcement Learning Platform
 
-A modular reinforcement-learning platform built with **JAX, Flax, Optax, and Gymnasium**, featuring multiple RL algorithms and a dashboard for experimentation.
+A modular reinforcement-learning platform built using **JAX, Flax, Optax, and Gymnasium**, designed to implement and experiment with multiple reinforcement-learning algorithms.
 
-- Implements **DQN, Proximal Policy Optimization (PPO), and one-step Actor-Critic**.
-- Includes shared training and evaluation workflows, configurable experiments, and metric persistence.
-- Supports checkpoint saving/restoration, deterministic evaluation, and experiment comparison.
-- Provides a **Streamlit dashboard** with Plotly visualizations.
-- Includes unit, integration, and smoke-test suites.
-- **Tech:** Python, JAX, Flax, Optax, Gymnasium, NumPy, Pandas, Plotly, Streamlit, pytest.
+- Implements DQN, Proximal Policy Optimization (PPO), and one-step Actor-Critic.
+- Shared training and evaluation pipelines.
+- Experiment tracking, metric persistence, and checkpoint management.
+- Interactive Streamlit dashboard with Plotly visualizations.
+- Unit, integration, and smoke-test suites.
+
+**Tech Stack:** Python, JAX, Flax, Optax, Gymnasium, NumPy, Pandas, Plotly, Streamlit.
 
 <p align="center">
   <a href="https://github.com/Satyam1245/jax-rl-platform">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View JAX RL Platform repository"/>
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View JAX RL Platform"/>
   </a>
 </p>
 
-### 🔍 DeepFake Detector | AI Forensics
+---
 
-- AI-based project focused on identifying manipulated media.
-- Explores deep learning techniques for media authenticity analysis.
-- **Tech:** Python, PyTorch, Computer Vision.
+### 🔍 DeepTrace AI | DeepFake Detector
+
+An AI-powered multimodal deepfake detection system using deep learning, computer vision, and digital forensic analysis.
+
+- Image, video, and audio manipulation analysis.
+- EfficientNet-based image classification.
+- GradCAM explainability and FFT spectrum analysis.
+- Error Level Analysis (ELA) and confidence scoring.
+- Interactive forensic dashboard.
+
+**Tech Stack:** Python, PyTorch, EfficientNet, OpenCV, FastAPI, NumPy, Pandas.
+
+<p align="center">
+  <a href="https://github.com/Satyam1245/deeptrace-ai-detector">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View DeepTrace AI"/>
+  </a>
+</p>
+
+---
 
 ### 🎯 AI-Powered Face Recognition Attendance System
 
-- Real-time face recognition and attendance logging using OpenCV.
-- Records attendance with timestamp-based entries.
-- **Tech:** Python, OpenCV.
+A computer vision-based attendance management system that automates attendance tracking through facial recognition.
+
+- Real-time face detection and recognition using OpenCV.
+- Automated attendance recording.
+- Timestamp-based attendance logs.
+- Structured face dataset and recognition workflow.
+
+**Tech Stack:** Python, OpenCV, Computer Vision, NumPy.
+
+<p align="center">
+  <a href="YOUR_FACE_ATTENDANCE_REPOSITORY_URL">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View Face Recognition Attendance System"/>
+  </a>
+</p>
+
+---
 
 ### 🌐 AI Website Recreation Agent
 
-- Full-stack application with a React frontend and FastAPI backend.
-- Uses browser automation and AI-assisted workflows to analyze and recreate website interfaces.
-- **Tech:** Python, FastAPI, React, Playwright.
+An AI-assisted website recreation application combining browser automation, backend APIs, and a modern frontend.
+
+- Website screenshot capture and analysis.
+- Browser automation using Playwright.
+- AI-assisted website structure and interface recreation.
+- FastAPI backend with React frontend.
+- API-based application workflow.
+
+**Tech Stack:** Python, FastAPI, React, Playwright, OpenAI API.
+
+<p align="center">
+  <a href="YOUR_WEBSITE_RECREATION_REPOSITORY_URL">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View Website Recreation Agent"/>
+  </a>
+</p>
+
+---
 
 ### 📅 Automated Timetable Scheduler
 
-- Streamlit application for generating academic timetables.
-- Applies scheduling constraints involving faculty, rooms, days, and time slots.
-- **Tech:** Python, Pandas, Streamlit.
+A Python-based scheduling application that generates academic timetables while considering multiple scheduling constraints.
 
-### 📊 Data Analytics Projects
+- Automated timetable generation.
+- Faculty and classroom allocation.
+- Day and time-slot management.
+- Scheduling constraints and conflict handling.
+- Interactive Streamlit interface.
 
-- KPI dashboards and exploratory data analysis projects.
-- Focuses on data cleaning, trend discovery, visualization, and communicating actionable insights.
-- **Tools:** Python, Pandas, Power BI.
+**Tech Stack:** Python, Pandas, Streamlit.
+
+<p align="center">
+  <a href="YOUR_TIMETABLE_SCHEDULER_REPOSITORY_URL">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View Timetable Scheduler"/>
+  </a>
+</p>
+
+---
+
+### 📊 Data Analytics & Visualization Projects
+
+A collection of data analytics projects focused on extracting insights, identifying patterns, and communicating findings through visualizations.
+
+- Exploratory Data Analysis (EDA).
+- Data cleaning and preprocessing.
+- KPI monitoring and dashboard development.
+- Trend analysis and data visualization.
+- Business-oriented analytical insights.
+
+**Tech Stack:** Python, Pandas, NumPy, Power BI, Matplotlib.
+
+<p align="center">
+  <a href="YOUR_DATA_ANALYTICS_REPOSITORY_URL">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECTS-181717?style=for-the-badge&logo=github" alt="View Data Analytics Projects"/>
+  </a>
+</p>
+
 
 ## 📜 Certifications & Activities
 
