@@ -30,45 +30,50 @@
 - Speech and Audio Processing
 - Intelligent Systems & Automation
 
-## 🛠️ Technical Skills
 
-### Programming Languages & Development
+<!-- ================= TECHNICAL SKILLS ================= -->
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,github,vscode" alt="Programming and development tools"/>
+<h2 align="center">🛠️ Technical Skills</h2>
+
+<h3 align="center">Programming Languages & Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,github,vscode" alt="Programming Languages and Development Tools"/>
 </p>
 
-### AI, Machine Learning & Computer Vision
+<h3 align="center">AI, Machine Learning & Computer Vision</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and machine learning technologies"/>
-  <img src="https://img.shields.io/badge/JAX-5E4FC3?style=flat&logo=jax&logoColor=white" alt="JAX"/>
-  <img src="https://img.shields.io/badge/Flax-EE4C2C?style=flat&logoColor=white" alt="Flax"/>
-  <img src="https://img.shields.io/badge/Optax-4285F4?style=flat&logoColor=white" alt="Optax"/>
-  <img src="https://img.shields.io/badge/Gymnasium-0081A5?style=flat&logoColor=white" alt="Gymnasium"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and Machine Learning Technologies"/>
 </p>
 
-### Data Analytics & Visualization
-
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/JAX-5E4FC3?style=for-the-badge&logo=jax&logoColor=white" alt="JAX"/>
+  <img src="https://img.shields.io/badge/Flax-EE4C2C?style=for-the-badge&logoColor=white" alt="Flax"/>
+  <img src="https://img.shields.io/badge/Optax-4285F4?style=for-the-badge&logoColor=white" alt="Optax"/>
+  <img src="https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge&logoColor=white" alt="Gymnasium"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 </p>
 
-### Web Development & APIs
+<h3 align="center">Data Analytics & Visualization</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,react,html,css,js" alt="Web development technologies"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
----
+<h3 align="center">Web Development & APIs</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,react,html,css,js" alt="Web Development Technologies"/>
+</p>
+
 
 # 🚀 Featured Projects
 
