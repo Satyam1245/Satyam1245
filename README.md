@@ -33,7 +33,7 @@
 
 <!-- ================= TECHNICAL SKILLS ================= -->
 
-<h2 align="center">🛠️ Technical Skills</h2>
+<h2>🛠️ Technical Skills</h2>
 
 <h3 align="center">Programming Languages & Development</h3>
 
