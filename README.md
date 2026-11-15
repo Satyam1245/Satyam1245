@@ -102,70 +102,50 @@ A computer vision-based attendance management system that automates attendance t
 **Tech Stack:** Python, OpenCV, Computer Vision, NumPy.
 
 <p align="center">
-  <a href="YOUR_FACE_ATTENDANCE_REPOSITORY_URL">
+  <a href="https://github.com/Satyam1245/Face-Recognition-Attendance-System">
     <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View Face Recognition Attendance System"/>
   </a>
 </p>
 
 ---
 
-### 🌐 AI Website Recreation Agent
+### 😷 Real-Time Face Mask Detection
 
-An AI-assisted website recreation application combining browser automation, backend APIs, and a modern frontend.
+A real-time face mask detection system using computer vision and CNN-based deep learning for live webcam predictions.
 
-- Website screenshot capture and analysis.
-- Browser automation using Playwright.
-- AI-assisted website structure and interface recreation.
-- FastAPI backend with React frontend.
-- API-based application workflow.
+- Real-time face mask detection.
+- Live webcam-based prediction.
+- CNN-based image classification.
+- OpenCV integration for visual processing.
 
-**Tech Stack:** Python, FastAPI, React, Playwright, OpenAI API.
+**Tech Stack:** Python, TensorFlow, OpenCV, CNN, Deep Learning.
 
 <p align="center">
-  <a href="YOUR_WEBSITE_RECREATION_REPOSITORY_URL">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View Website Recreation Agent"/>
+  <a href="https://github.com/Satyam1245/real-time-face-mask-detection">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View Face Mask Detection"/>
   </a>
 </p>
 
 ---
 
-### 📅 Automated Timetable Scheduler
+### 📊 Business KPI Dashboard | Power BI
 
-A Python-based scheduling application that generates academic timetables while considering multiple scheduling constraints.
+An interactive business intelligence dashboard designed to analyze key performance indicators and transform business data into actionable insights.
 
-- Automated timetable generation.
-- Faculty and classroom allocation.
-- Day and time-slot management.
-- Scheduling constraints and conflict handling.
-- Interactive Streamlit interface.
+- Interactive KPI dashboard.
+- Business performance analysis.
+- Data-driven insights and visualizations.
+- Performance monitoring and reporting.
 
-**Tech Stack:** Python, Pandas, Streamlit.
+**Tech Stack:** Power BI, Data Analytics, Business Intelligence.
 
 <p align="center">
-  <a href="YOUR_TIMETABLE_SCHEDULER_REPOSITORY_URL">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View Timetable Scheduler"/>
+  <a href="https://github.com/Satyam1245/business-kpi-dashboard-powerbi">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View Business KPI Dashboard"/>
   </a>
 </p>
 
 ---
-
-### 📊 Data Analytics & Visualization Projects
-
-A collection of data analytics projects focused on extracting insights, identifying patterns, and communicating findings through visualizations.
-
-- Exploratory Data Analysis (EDA).
-- Data cleaning and preprocessing.
-- KPI monitoring and dashboard development.
-- Trend analysis and data visualization.
-- Business-oriented analytical insights.
-
-**Tech Stack:** Python, Pandas, NumPy, Power BI, Matplotlib.
-
-<p align="center">
-  <a href="YOUR_DATA_ANALYTICS_REPOSITORY_URL">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECTS-181717?style=for-the-badge&logo=github" alt="View Data Analytics Projects"/>
-  </a>
-</p>
 
 
 ## 📜 Certifications & Activities
